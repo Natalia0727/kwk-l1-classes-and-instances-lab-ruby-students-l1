@@ -9,5 +9,6 @@ class Person
 end
 adele_goldberg=Person.new
 adele_goldberg.name
-
+alan_kay=Person.new
+alan_kay.name
   
