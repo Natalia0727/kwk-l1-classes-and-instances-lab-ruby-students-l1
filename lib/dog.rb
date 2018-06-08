@@ -1,7 +1,8 @@
 # dog.rb
 class Dog
   
-  def namefido
+  def name=(dog_name)
+    fido
   end 
   
   def snoopy
