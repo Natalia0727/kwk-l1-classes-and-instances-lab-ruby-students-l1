@@ -1,7 +1,7 @@
 # dog.rb
 class Dog
   
-  def fido
+  def namefido
   end 
   
   def snoopy
