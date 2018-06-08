@@ -7,5 +7,5 @@ class Person
     @this_persons_name
   end
 end
-
+adele_goldberg=Person.new
   
