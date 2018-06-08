@@ -12,3 +12,5 @@ fido=Dog.new
 fido.name
 snoopy=Dog.new
 snoopy.name
+lassie=Dog.new
+lassie.name
